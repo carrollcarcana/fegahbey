@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eefeivaeb.thecontainerguide.com/sitemap.xml
